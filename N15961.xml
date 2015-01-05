@@ -112,18 +112,20 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:020425_0001_0FC7414F7ACC8168" rendition="simple:additions"/>
-            <pb facs="tcp:020425_0002_0FC74151B7B9D2C8"/>
+            <pb facs="unknown:020425_0001_0FC7414F7ACC8168"
+                rendition="simple:additions"/>
+            <pb facs="unknown:020425_0002_0FC74151B7B9D2C8"/>
             <p>THE WIDOW's VOW.</p>
             <p>A FARCE, IN TWO ACTS, AS IT IS ACTED AT THE THEATRE ROYAL, <hi>HAY-MARKET,</hi> AND BY THE OLD AMERICAN COMPANY, <hi>NEW-YORK.</hi>
             </p>
             <p>
                <hi>LONDON</hi>: Printed: <hi>NEW-YORK:</hi> Re-Printed by H. GAINE, the BIBLE, in HANOVER-SQUARE, M, DCC, LXXXVII.</p>
             <p>
-               <pb facs="tcp:020425_0003_0FC74153353ED818" rendition="simple:additions"/>HARVARD COLLEGE LIBRARY FROM THE REQUEST OF EVERT MANSEN WENDELL 1918</p>
+               <pb facs="unknown:020425_0003_0FC74153353ED818"
+                   rendition="simple:additions"/>HARVARD COLLEGE LIBRARY FROM THE REQUEST OF EVERT MANSEN WENDELL 1918</p>
          </div>
          <div type="prologue">
-            <pb facs="tcp:020425_0004_0FC7415CE790C0F0"/>
+            <pb facs="unknown:020425_0004_0FC7415CE790C0F0"/>
             <head>PROLOGUE, Written by Mr. HOLCROFT,</head>
             <sp>
                <speaker>Spoken by Mr. BANNISTER, jun.</speaker>
@@ -167,7 +169,7 @@
                <l>And Claude's and Titian's new-found wonders may</l>
                <l>By new-made Peers be bought—if new-made Peers can pay.</l>
                <stage>
-                  <pb facs="tcp:020425_0005_0FC7415E0B5A18F0"/>
+                  <pb facs="unknown:020425_0005_0FC7415E0B5A18F0"/>
                   <hi>(Aſſuming ſorrow.)</hi>
                </stage>
                <l>One thing, indeed, may well your peace invade,</l>
@@ -309,7 +311,7 @@
       </front>
       <body>
          <div type="play">
-            <pb facs="tcp:020425_0006_0FC7415F361A1518"/>
+            <pb facs="unknown:020425_0006_0FC7415F361A1518"/>
             <head>THE WIDOW's VOW.</head>
             <div n="1" type="act">
                <head>ACT I.</head>
@@ -363,7 +365,7 @@
                      <p>Well then—when my lady was only 15 ſhe <gap reason="illegible" resp="#PDCC" extent="1 span">
                            <desc>〈…〉</desc>
                         </gap> with a fine handſome young fellow, interior to her both in rank and forturne; but my good old Lord, her father, who doated upon her, was afraid
-<pb n="6" facs="tcp:020425_0007_0FC74164CBE885E0"/>
+<pb n="6" facs="unknown:020425_0007_0FC74164CBE885E0"/>
 a diſappointment might break her heart, and ſo con<g ref="char:EOLhyphen"/>ſented to her having him; but he proved ſo bad a huſband, that my poor old maſter ſoon died with grief.</p>
                   </sp>
                   <sp>
@@ -444,7 +446,7 @@ a diſappointment might break her heart, and ſo con<g ref="char:EOLhyphen"/>ſe
                      <p>But <hi>you</hi> are no relation, Mr. Jerome.</p>
                   </sp>
                   <sp>
-                     <pb n="7" facs="tcp:020425_0008_0FC7416607F65C50"/>
+                     <pb n="7" facs="unknown:020425_0008_0FC7416607F65C50"/>
                      <speaker>JEROME.</speaker>
                      <p>Why, as you ſay, ſhe might fall in love with me—Stranger things have happened—and to tell you the truth, ſhe does not ſeem poſitive ſhe ſhan't, for ſhe bids me keep out of her ſight as much as poſſi<g ref="char:EOLhyphen"/>ble, for fear I ſhould put her in mind of that handſome villain that brought her to this retirement.</p>
                   </sp>
@@ -509,7 +511,7 @@ a diſappointment might break her heart, and ſo con<g ref="char:EOLhyphen"/>ſe
                      <p>Do—Do—ſerve me ſo—you are very welcome.</p>
                   </sp>
                   <stage>
-                     <pb n="8" facs="tcp:020425_0009_0FC74168389E85A8"/>
+                     <pb n="8" facs="unknown:020425_0009_0FC74168389E85A8"/>
                      <hi>Enter</hi> JEROME.</stage>
                   <sp>
                      <speaker>JEROME.</speaker>
@@ -566,7 +568,7 @@ a diſappointment might break her heart, and ſo con<g ref="char:EOLhyphen"/>ſe
                   </sp>
                   <sp>
                      <speaker>
-                        <pb n="9" facs="tcp:020425_0010_0FC74169DB84E430"/>ISABEL.</speaker>
+                        <pb n="9" facs="unknown:020425_0010_0FC74169DB84E430"/>ISABEL.</speaker>
                      <p>I tell you I have great hopes.</p>
                   </sp>
                   <sp>
@@ -627,7 +629,7 @@ a diſappointment might break her heart, and ſo con<g ref="char:EOLhyphen"/>ſe
                   <sp>
                      <speaker>INIS.</speaker>
                      <p>Delightful, Madam—I have been introdu<g ref="char:EOLhyphen"/>ced to the young Counteſs—I firſt communicated the
-<pb n="10" facs="tcp:020425_0011_0FC7416DEC914570"/>
+<pb n="10" facs="unknown:020425_0011_0FC7416DEC914570"/>
 intelligence of the pretended plot forming againſt her to her waiting woman, who was ſufficiently alarmed at it, to take me to her Lady immediately.</p>
                   </sp>
                   <sp>
@@ -684,7 +686,7 @@ intelligence of the pretended plot forming againſt her to her waiting woman, wh
                   </sp>
                   <sp>
                      <speaker>
-                        <pb n="11" facs="tcp:020425_0012_0FC7416F0F66B020"/>ISABEL.</speaker>
+                        <pb n="11" facs="unknown:020425_0012_0FC7416F0F66B020"/>ISABEL.</speaker>
                      <p>He has nothing to <hi>act,</hi> being the very perſon he repreſents, and therefore ſhall not know of the art by which he is introduced—for, except being a little too attentive to dreſs and etiquette, a circum<g ref="char:EOLhyphen"/>ſtance which, with his youthful appearance, favours our deſign, he is one of the moſt amiable young men in the world, and the leaſt idea of impoſition would ſhock his honour, and put an end to my ſcheme.</p>
                   </sp>
                   <sp>
@@ -757,7 +759,7 @@ intelligence of the pretended plot forming againſt her to her waiting woman, wh
                   </sp>
                   <sp>
                      <speaker>
-                        <pb n="12" facs="tcp:020425_0013_0FC7417C86C81968"/>INIS.</speaker>
+                        <pb n="12" facs="unknown:020425_0013_0FC7417C86C81968"/>INIS.</speaker>
                      <p>So much the better—ſhe expects you'll be awkward.</p>
                   </sp>
                   <sp>
@@ -822,7 +824,7 @@ intelligence of the pretended plot forming againſt her to her waiting woman, wh
                   <sp>
                      <speaker>JEROME.</speaker>
                      <p>There's the Prieſt's old great cloak, doublet, and jack-boots hanging up behind that door,
-<pb n="13" facs="tcp:020425_0014_0FC7417DFA161630"/>
+<pb n="13" facs="unknown:020425_0014_0FC7417DFA161630"/>
 if you have a mind to try, and I'll ſtep out of the way till you put them on.</p>
                   </sp>
                   <stage>(A loud rapping at the door.)</stage>
@@ -900,7 +902,7 @@ if you have a mind to try, and I'll ſtep out of the way till you put them on.</
                   </sp>
                   <sp>
                      <speaker>
-                        <pb n="14" facs="tcp:020425_0015_0FC7417FDF1611A0"/>FLORA.</speaker>
+                        <pb n="14" facs="unknown:020425_0015_0FC7417FDF1611A0"/>FLORA.</speaker>
                      <p>
                         <hi>(From a door.)</hi> Oh that ſhe would but turn this way, that I might ſee her face—Oh the im<g ref="char:EOLhyphen"/>pudent ſlut.</p>
                   </sp>
@@ -972,7 +974,7 @@ if you have a mind to try, and I'll ſtep out of the way till you put them on.</
                   </sp>
                   <stage>[Exit Marquis.</stage>
                   <stage>
-                     <pb n="15" facs="tcp:020425_0016_0FC74183D209E798"/>
+                     <pb n="15" facs="unknown:020425_0016_0FC74183D209E798"/>
                      <hi>Enter the</hi> COUNTESS.</stage>
                   <sp>
                      <speaker>ANTONIO.</speaker>
@@ -1038,7 +1040,7 @@ if you have a mind to try, and I'll ſtep out of the way till you put them on.</
                   </sp>
                   <sp>
                      <speaker>
-                        <pb n="16" facs="tcp:020425_0017_0FC7418CF0D16FC0"/>COUNTESS.</speaker>
+                        <pb n="16" facs="unknown:020425_0017_0FC7418CF0D16FC0"/>COUNTESS.</speaker>
                      <p>I aſſure you again a woman—ſiſter to the Marquis—and has undertaken this ſcheme purely to make love to me, and turn me into ridicule.</p>
                   </sp>
                   <sp>
@@ -1115,7 +1117,7 @@ if you have a mind to try, and I'll ſtep out of the way till you put them on.</
                </div>
             </div>
             <div n="2" type="act">
-               <pb n="17" facs="tcp:020425_0018_0FC7418DE8F5EA88"/>
+               <pb n="17" facs="unknown:020425_0018_0FC7418DE8F5EA88"/>
                <head>ACT II.</head>
                <div n="1" type="scene">
                   <head>SCENE I.</head>
@@ -1223,7 +1225,7 @@ if you have a mind to try, and I'll ſtep out of the way till you put them on.</
                   </sp>
                   <sp>
                      <speaker>
-                        <pb n="18" facs="tcp:020425_0019_0FC7418F42E90E60"/>CARLOS.</speaker>
+                        <pb n="18" facs="unknown:020425_0019_0FC7418F42E90E60"/>CARLOS.</speaker>
                      <p>I am going <gap reason="illegible" resp="#PDCC" extent="1 span">
                            <desc>〈…〉</desc>
                         </gap> come there preſently?</p>
@@ -1311,7 +1313,7 @@ if you have a mind to try, and I'll ſtep out of the way till you put them on.</
                   <stage>(Laughing to himſelf.)</stage>
                   <sp>
                      <speaker>
-                        <pb n="19" facs="tcp:020425_0020_0FC74190B6C2FB60"/>MARQUIS.</speaker>
+                        <pb n="19" facs="unknown:020425_0020_0FC74190B6C2FB60"/>MARQUIS.</speaker>
                      <p>Sir!</p>
                   </sp>
                   <stage>[Surpriſed.</stage>
@@ -1382,7 +1384,7 @@ if you have a mind to try, and I'll ſtep out of the way till you put them on.</
                   <sp>
                      <speaker>COUNTESS.</speaker>
                      <p>I declare I like you ſo well—ſo much
-<pb n="20" facs="tcp:020425_0021_0FC74198F9268610"/>
+<pb n="20" facs="unknown:020425_0021_0FC74198F9268610"/>
 better than I expected—I can no longer treat you with cold reſerve—Come ſit down.</p>
                   </sp>
                   <stage>[They ſit.</stage>
@@ -1460,7 +1462,7 @@ better than I expected—I can no longer treat you with cold reſerve—Come ſi
                   <sp>
                      <speaker>MARQUIS.</speaker>
                      <p>I am very much obliged to you—in<g ref="char:EOLhyphen"/>finitely obliged to you—I aſſure you this favour—this
-<pb n="21" facs="tcp:020425_0022_0FC7419BF5150CE0"/>
+<pb n="21" facs="unknown:020425_0022_0FC7419BF5150CE0"/>
 honour—I don't know what to ſay—She abſolutely puts me out of countenance.</p>
                   </sp>
                   <stage>[Aſide.</stage>
@@ -1550,7 +1552,7 @@ honour—I don't know what to ſay—She abſolutely puts me out of countenance.
                   </sp>
                   <sp>
                      <speaker>
-                        <pb n="22" facs="tcp:020425_0023_0FC741A4EE2BD300"/>ANTO.</speaker>
+                        <pb n="22" facs="unknown:020425_0023_0FC741A4EE2BD300"/>ANTO.</speaker>
                      <p>
                         <hi>(Retreating.)</hi> Why, what is all this about? I won't fight—I only drew my ſword to frighten you.</p>
                   </sp>
@@ -1620,7 +1622,7 @@ honour—I don't know what to ſay—She abſolutely puts me out of countenance.
                   </sp>
                   <sp>
                      <speaker>
-                        <pb n="23" facs="tcp:020425_0024_0FC741A5E90403E8"/>MARQUIS.</speaker>
+                        <pb n="23" facs="unknown:020425_0024_0FC741A5E90403E8"/>MARQUIS.</speaker>
                      <p>You too, raſcal!—</p>
                   </sp>
                   <sp>
@@ -1709,7 +1711,7 @@ honour—I don't know what to ſay—She abſolutely puts me out of countenance.
                   </sp>
                   <sp>
                      <speaker>
-                        <pb n="24" facs="tcp:020425_0025_0FC741A751D0AF28"/>MARQUIS.</speaker>
+                        <pb n="24" facs="unknown:020425_0025_0FC741A751D0AF28"/>MARQUIS.</speaker>
                      <p>No.</p>
                   </sp>
                   <sp>
